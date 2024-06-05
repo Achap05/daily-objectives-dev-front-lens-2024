@@ -11,10 +11,10 @@
   - [ ] Quelles différences entre classes concrètes et abstraites ?
   - [x] Comprendre ce qu'est le constructeur (`constructor`)
   - [x] Attributs / Propriétés.
-  - [ ] Méthodes.
+  - [x] Méthodes.
     - [ ] Quelle différence avec les fonctions ?
     - [ ] Utilité ?
-    - [ ] Getters / Setters.
+    - [x] Getters / Setters.
   - [x] Comprendre ce qu'est le constructeur.
 - [x] Comprendre ce qu'est un objet.
 - [x] Comprendre le principe d'encapsulation :
